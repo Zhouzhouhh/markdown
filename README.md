@@ -11,3 +11,6 @@ git commit -m "finished markdown"
 git checkout main
 git merge develop
 git push origin main
+
+git clone https://github.com.cnpmjs.org/chenhui/markdown.git
+git config --global url."https://github.com.cnpmjs.org/"insteadOf"https://github.com/"
